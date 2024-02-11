@@ -8,14 +8,9 @@ from kivy.uix.textinput import TextInput
 from kivy.uix.label import Label
 from kivy.graphics import Rectangle, Color
 from kivy.clock import Clock
-from kivy.core.window import Window
 import g4f
 import random
 import re
-import asyncio
-from kivy.uix.image import Image
-from kivy.uix.popup import Popup
-from kivy.uix.video import Video
 
 FONT_NAME = 'Bangers.ttf'
 
