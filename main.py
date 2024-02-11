@@ -70,7 +70,7 @@ def generate_prompt():
                 messages=[{"role": "user", "content": power_prompt_text}],
             )
             power_prompt = power_prompt_response
-            banned_powers = ["shadow", "memory"]
+            banned_powers = ["shadow", "memory", "echo"]
             while any(banned_power in power_prompt.lower() for banned_power in banned_powers):
                 print(f"Regenerating power prompt... ({power_prompt})")
                 power_prompt_response = create_chat_completion_with_retry(
