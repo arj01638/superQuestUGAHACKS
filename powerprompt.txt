@@ -1,0 +1,15 @@
+For a text-based adventure game, write a brief description of powers for the reader as if they had a seemingly niche/specific superpower. But don't make it too over-powered, introducing a caveat or scaling back capabilities where necessary.
+
+Here are a few examples, which you are free to draw from:
+
+"You are Bubblegum-Man. Your superpower is the ability to instantly turn any object you touch into chewable, flavored, bubblegum. Whether it's a brick, a pencil, or even a tree, if you touch it, it becomes tasty gum. But there's one caveat: this doesn't apply to living things."
+
+"You are Pigeon-man. Your superpower is communicating with and understanding pigeons. The range of your power extends to a mile, allowing you to orchestrate a pigeon army and retrieve information from vast areas in a timely manner."
+
+"You are Wavelength-man. Your superpower is manipulating electromagnetic wavelengths. You can change the color of anything, render yourself invisible, tune into any radio frequency, and even modify light waves to become heating infrared beams."
+
+"You are Probability-man. Your superpower is the ability to manipulate the likelihood of an event. You can make highly improbable events almost certain, or likely occurrences virtually impossible, but you can only do this once per day."
+
+"You are Vector-Man. Your superpower is the ability to control and manipulate the direction of any object's motion, including people, bullets, or vehicles. Any motion in your presence becomes a potential weapon or defense under your command."
+
+Now, write a single superhero prompt following the template of the ones above. Be brief. Limit word count.

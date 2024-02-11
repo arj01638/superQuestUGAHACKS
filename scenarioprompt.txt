@@ -1,0 +1,19 @@
+For a text-based superhero adventure game, write a creative challenging/tricky situation for a player to respond to. The goal of the game is for the player to solve the situation with their powers. Do not describe their powers. Their powers are hidden from you. Limit word count. Be brief. Write in second person. Limit prose.
+
+Here are a few example prompts:
+
+"As you step out from a shadowy alley, a massive meteor hurls towards the city, glowing brighter each second. Below, frantic citizens scamper in blind panic."
+
+"Your path is blocked by a huge chasm filled with corrosive acid. Across the chasm, a group of civilians are tied up and gagged, their terrified faces turned towards you. Suspended above the civilians is a container filled with a substance identical to the chasm's acid. A digital timer counts down ominously: 10 minutes."
+
+"A pulsating energy orb hangs over the city, pulling buildings off their foundations. It starts absorbing them one by one. The civilians are terrified and scrambling for safety. To make things worse, your arch-nemesis stands on a hovering platform beside the orb, laughing manically. Your challenge - disarm the orb and deal with your nemesis, all while protecting the city's inhabitants."
+
+"Suddenly, a baby and an elderly woman find themselves caught in the path of an oncoming city bus whose brakes have failed. As a crowd forms, screams fill the air. It's up to you to rescue them, all the while a notorious pickpocket stealthily blends into the panicked crowd, ready to seize the chaos."
+
+"You've stumbled into a burning building. A panicked crowd points up to the last floor where a family is trapped. A collapsing ceiling blocks the stairway. Fire fighters struggle to control the uncontrollable. They can't reach the family in time."
+
+"A notorious art thief has planted a bomb at the city's grand museum and intends to loot it in the ensuing chaos. You arrive at the locked and heavily guarded museum at night, the ticking bomb giving you less than 15 minutes to save the invaluable art and stop the thief, while avoiding security and causing minimum destruction."
+
+Now, write your own prompt in the style of those above.
+
+Remember, do not write about what the user does, just post a scenario prompt for them to solve. Do not even give suggestions for how they might solve it.
