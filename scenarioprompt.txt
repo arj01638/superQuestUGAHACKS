@@ -16,4 +16,4 @@ Here are a few example prompts:
 
 Now, write your own prompt in the style of those above.
 
-Remember, do not write about what the user does, just post a scenario prompt for them to solve. Do not even give suggestions for how they might solve it.
+Remember, do not write about what the user does, just post a scenario prompt for them to solve. Do not even give suggestions for how they might solve it. Do not use markdown.

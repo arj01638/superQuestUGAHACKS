@@ -14,6 +14,6 @@ Here are a few example prompts:
 
 "A notorious art thief has planted a bomb at the city's grand museum and intends to loot it in the ensuing chaos. You arrive at the locked and heavily guarded museum at night, the ticking bomb giving you less than 15 minutes to save the invaluable art and stop the thief, while avoiding security and causing minimum destruction."
 
-Now, write your own prompt in the style of those above.
+Now, write your own prompt in the style of those above. Do not use markdown.
 
 Their power prompt is as follows:

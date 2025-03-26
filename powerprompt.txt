@@ -12,4 +12,6 @@ Here are a few examples, which you are free to draw from:
 
 "You are Vector-Man. Your superpower is the ability to control and manipulate the direction of any object's motion, including people, bullets, or vehicles. Any motion in your presence becomes a potential weapon or defense under your command."
 
-Now, write a single superhero prompt following the template of the ones above. Be brief. Limit word count.
+Now, write a single superhero prompt following the template of the ones above. Be brief. Limit word count. Do not use markdown.
+
+Blacklisted powers: "shadow", "memory", "echo"
